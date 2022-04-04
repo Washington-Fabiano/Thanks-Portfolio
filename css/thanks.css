@@ -10,7 +10,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
-    background-size: 40%; 
+    background-size: 40%;
 }
 h1 {
     font-family: 'Press Start 2P', cursive;
@@ -41,7 +41,7 @@ p {
 }
 body {
     background-color: #402D22;
-}   
+}
 .return {
     display: flex;
     background-color: #183940;
@@ -81,10 +81,10 @@ body {
     margin-left: 20px;
     margin-right: 20px;
 }
-@media screen and (min-width: 1025px) and (max-width:1324px ){ 
+@media screen and (min-width: 1025px) and (max-width:1324px ){
 .thanks{
-    height: 500px; 
-    background-size: 50%; 
+    height: 500px;
+    background-size: 50%;
 }
 .return {
     margin-top: 240px;
@@ -97,32 +97,31 @@ body {
 }
 @media screen and (min-width: 626px) and (max-width:1024px ){
 .thanks{
-    height: 500px; 
-    background-size: 80%;  
+    height: 500px;
+    background-size: 80%;
 }
 .return {
     margin-top: 240px;
-    margin-left: 20px;   
+    margin-left: 20px;
 }
 .thanksSocial {
     margin-top: 47px;
     margin-left: 47px;
 }
-
 }
 @media screen and (min-width: 320px) and (max-width:625px ){
 .thanks {
     height: 500px;
-    background-size: 134%;
+    background-size: 138%;
 }
 .return {
     margin-top: 240px;
-    margin-left: 20px;   
+    margin-left: 35px;
 }
 .thanksSocial {
     width: 263px;
     height: 70px;
-    margin-left: 40px;
+    margin-left: 60px;
 }
 .footerNetwork {
     height: 54px;
