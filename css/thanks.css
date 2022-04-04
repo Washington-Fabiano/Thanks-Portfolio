@@ -111,8 +111,8 @@ body {
 }
 @media screen and (min-width: 300px) and (max-width:625px ){
 .thanks {
-    height: 500px;
-    background-size: 144%;
+    height: 480px;
+    background-size: 140%;
 }
 .return {
     margin-top: 240px;
