@@ -109,9 +109,8 @@ body {
     margin-left: 47px;
 }
 }
-@media screen and (min-width: 300px) and (max-width:625px ){
+@media screen and (min-width: 320px) and (max-width:625px ){
 .thanks {
-    height: 480px;
     background-size: 140%;
 }
 .return {
