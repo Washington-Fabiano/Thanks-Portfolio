@@ -117,11 +117,12 @@ body {
 .return {
     margin-top: 240px;
     margin-left: 35px;
+    width: 180px;
 }
 .thanksSocial {
     width: 263px;
     height: 70px;
-    margin-left: 60px;
+    margin-left: 50px;
 }
 .footerNetwork {
     height: 54px;
